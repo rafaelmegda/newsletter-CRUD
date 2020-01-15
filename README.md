@@ -13,3 +13,6 @@ Código backend em PHP para criar uma Newsletter para captar Leads, cadastrar o 
           email varchar(50)    
       );
 
+# Veja como funciona o sistema
+
+![](GIFLoginPHP.gif)
